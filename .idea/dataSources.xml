@@ -7,5 +7,11 @@
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
       <jdbc-url>jdbc:sqlite:C:\Users\Hjord\IdeaProjects\Databaseprojekt 1\db\Opskrifter.sqlite</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="Chinook" uuid="851f82ba-1ba2-4e33-9ffb-f005403d829b">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\Hjord\IdeaProjects\Databaseprojekt 1\db\chinook.db</jdbc-url>
+    </data-source>
   </component>
 </project>
